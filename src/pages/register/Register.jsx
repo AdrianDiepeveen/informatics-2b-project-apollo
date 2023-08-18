@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 
-import { Footer, Header } from './containers';
-import { CTA, Brand, Navbar } from './components';
+import { Footer, Header } from '../../containers';
+import { CTA, Brand, Navbar } from '../../components';
 
-import './App.css';
+import '../../App.css';
 
 const Register = () => {
   const [username, setUsername] = useState('');

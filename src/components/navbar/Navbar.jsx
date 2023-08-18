@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
+import { Link } from 'react-router-dom';
 import logo from '../../logo.svg';
 import './navbar.css';
 
@@ -21,8 +22,8 @@ const Navbar = () => {
         </div>
       </div>
       <div className="navbar-sign">
-        <p>Sign in</p>
-        <button type="button">Register</button>
+        <p><Link to="/login">Sign In</Link></p>
+        <button type="button"><Link to="/register">Register</Link></button>
       </div>
       <div className="navbar-menu">
         {toggleMenu
@@ -38,8 +39,8 @@ const Navbar = () => {
             <p><a href="#blog">News Articles</a></p>
           </div>
           <div className="navbar-menu_container-links-sign">
-            <p>Sign In</p>
-            <button type="button">Register</button>
+            <p><Link to="/login">Sign In</Link></p>
+            <button type="button"><Link to="/register">Register</Link></button>
           </div>
         </div>
         )}
