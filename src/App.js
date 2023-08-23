@@ -24,7 +24,7 @@ const App = () => (
     <Footer />
     <Routes>
       <Route path="/login" component={<Login/>} />
-      <Route path="/login" component={<Register/>} />
+      <Route path="/register" component={<Register/>} />
     </Routes>
   </div>
   </Router>
