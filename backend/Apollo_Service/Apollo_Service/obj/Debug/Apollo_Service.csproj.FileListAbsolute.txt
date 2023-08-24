@@ -1,0 +1,7 @@
+C:\Users\phili\My Drive\BSc Computer Science\Year 2\Internet Electronic Commerce (IFM02B2)\informatics-2b-project-apollo\backend\Apollo_Service\Apollo_Service\bin\Apollo_Service.dll.config
+C:\Users\phili\My Drive\BSc Computer Science\Year 2\Internet Electronic Commerce (IFM02B2)\informatics-2b-project-apollo\backend\Apollo_Service\Apollo_Service\bin\Apollo_Service.dll
+C:\Users\phili\My Drive\BSc Computer Science\Year 2\Internet Electronic Commerce (IFM02B2)\informatics-2b-project-apollo\backend\Apollo_Service\Apollo_Service\bin\Apollo_Service.pdb
+C:\Users\phili\My Drive\BSc Computer Science\Year 2\Internet Electronic Commerce (IFM02B2)\informatics-2b-project-apollo\backend\Apollo_Service\Apollo_Service\obj\Debug\Apollo_Service.csproj.AssemblyReference.cache
+C:\Users\phili\My Drive\BSc Computer Science\Year 2\Internet Electronic Commerce (IFM02B2)\informatics-2b-project-apollo\backend\Apollo_Service\Apollo_Service\obj\Debug\Apollo_Service.csproj.CoreCompileInputs.cache
+C:\Users\phili\My Drive\BSc Computer Science\Year 2\Internet Electronic Commerce (IFM02B2)\informatics-2b-project-apollo\backend\Apollo_Service\Apollo_Service\obj\Debug\Apollo_Service.dll
+C:\Users\phili\My Drive\BSc Computer Science\Year 2\Internet Electronic Commerce (IFM02B2)\informatics-2b-project-apollo\backend\Apollo_Service\Apollo_Service\obj\Debug\Apollo_Service.pdb
